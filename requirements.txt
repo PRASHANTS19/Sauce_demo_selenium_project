@@ -1,0 +1,9 @@
+datetime
+openpyxl
+pyautogui
+selenium
+io
+pytest
+pandas
+webdriver_manager
+pytest_html
